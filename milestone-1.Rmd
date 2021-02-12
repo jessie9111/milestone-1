@@ -1,0 +1,13 @@
+---
+title: 'Milestone #1'
+author: "Jessica Edwards"
+date: "2/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here's what I'm thinking for my final project...
+Dataset I used...
